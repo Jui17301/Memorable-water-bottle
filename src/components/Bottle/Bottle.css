@@ -1,0 +1,13 @@
+.bottle{
+  border:5px solid seagreen;
+  padding: 10px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+.bottle img{
+  width: 200px;
+}
